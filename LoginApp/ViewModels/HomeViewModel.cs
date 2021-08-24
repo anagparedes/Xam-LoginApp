@@ -7,7 +7,7 @@ using Xamarin.Forms;
 
 namespace LoginApp.ViewModels
 {
-    public class HomeViewModel : ContentView
+    public class HomeViewModel : ContentPage
     {
         public HomeViewModel()
         {

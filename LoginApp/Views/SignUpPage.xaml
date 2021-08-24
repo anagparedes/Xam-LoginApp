@@ -6,7 +6,6 @@
     <ContentPage.Content>
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
             <Image Source="logo.jpg" WidthRequest="180" HeightRequest="180"></Image>
-            <Entry x:Name="nameEntry" Text="{Binding nameEntry}" Placeholder="Name" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
             <Entry x:Name="emailEntry" Text="{Binding emailEntry}" Placeholder="Email" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
             <Entry x:Name="usernameEntry" Text="{Binding usernameEntry}" Placeholder="Username" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
             <Entry  x:Name="passwordEntry" Text ="{Binding passwordEntry}" Placeholder="Password" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>

@@ -1,6 +1,9 @@
 LoginApp.Droid.MainActivity, LoginApp.Android;crc64912a29aeaec49357.MainActivity
 LoginApp.Droid.MainActivity;crc64912a29aeaec49357.MainActivity
 loginapp.droid.MainActivity;crc64912a29aeaec49357.MainActivity
+ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer, ImageCircle.Forms.Plugin;crc6436929b8ad3b40f6f.ImageCircleRenderer
+ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer;crc6436929b8ad3b40f6f.ImageCircleRenderer
+imagecircle.forms.plugin.droid.ImageCircleRenderer;crc6436929b8ad3b40f6f.ImageCircleRenderer
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner

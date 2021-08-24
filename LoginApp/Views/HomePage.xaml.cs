@@ -1,12 +1,11 @@
-﻿
+﻿using LoginApp.ViewModels;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using LoginApp.ViewModels;
 
 namespace LoginApp.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class HomePage : ContentView
+    public partial class HomePage : ContentPage
     {
         public HomePage()
         {

@@ -26,17 +26,14 @@ namespace LoginApp.ViewModels
        
         }
        
-        public LoginViewModel()
-        {
+        //public LoginViewModel()
+        //{
            
 
 
-        }
-        public class HomePage : ContentPage
-        {
-
-        }
-
+        //}
+       
+     
 
         public Command ButtonCommand
         {
@@ -70,7 +67,7 @@ namespace LoginApp.ViewModels
                 await App.Current.MainPage.DisplayAlert("Welcome!", "Hi " + usernameEntry, "Ok");
                 await App.Current.MainPage.Navigation.PushAsync(new HomePage());
 
-            } 
+            }
         }
 
         private void TapGestureRecognizerOnTapped()

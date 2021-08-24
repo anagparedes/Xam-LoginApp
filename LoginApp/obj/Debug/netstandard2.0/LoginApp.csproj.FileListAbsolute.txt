@@ -2,7 +2,6 @@ C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\bin\Debug\netsta
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\bin\Debug\netstandard2.0\LoginApp.dll
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\bin\Debug\netstandard2.0\ref\LoginApp.dll
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\bin\Debug\netstandard2.0\LoginApp.pdb
-C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.csproj.AssemblyReference.cache
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs

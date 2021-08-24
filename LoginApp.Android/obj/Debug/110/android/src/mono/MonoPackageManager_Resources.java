@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "LoginApp.Android.dll" comes first in this list. */
 		"LoginApp.Android.dll",
 		"FormsViewGroup.dll",
+		"ImageCircle.Forms.Plugin.dll",
 		"LoginApp.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
