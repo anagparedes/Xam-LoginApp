@@ -1,22 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
+﻿
+using LoginApp.Models;
 using Xamarin.Forms;
 
 namespace LoginApp.ViewModels
 {
     public class HomeViewModel : ContentPage
     {
+        public MenuOption option { get; set; } = new MenuOption();
+
         public HomeViewModel()
         {
-            Content = new StackLayout
-            {
-                Children = {
-                    new Label { Text = "Welcome to Xamarin.Forms!" }
-                }
-            };
+            option.Title = "GameBoyAdvance";
+            
         }
     }
 }

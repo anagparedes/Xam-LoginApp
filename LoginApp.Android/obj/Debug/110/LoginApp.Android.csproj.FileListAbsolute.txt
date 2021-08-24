@@ -577,3 +577,9 @@ C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debu
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\lp\88\jl\files.cache
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\android\assets\ImageCircle.Forms.Plugin.dll
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\pokemon.jpg
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\crossing.jpg
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\castlevania.jpg
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\mariokart.jpg
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\metroid.jpg
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\zelda.jpg
