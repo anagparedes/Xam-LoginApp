@@ -16,16 +16,22 @@
             </Grid.ColumnDefinitions>
             <Label Grid.Row="0" Grid.Column="0" Text="MarioKartDS" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
             <Image Source="mariokart.jpg" Grid.Row="0" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+            
             <Label Grid.Row="0"  Grid.Column="1" Text="Pokemon Black Version" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
             <Image Source="pokemon.jpg" Grid.Row="0" Grid.Column="1" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+            
             <Label Grid.Row="1"  Grid.Column="0" Text="Animal Crossing" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
             <Image Source="crossing.jpg" Grid.Row="1" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+            
             <Label Grid.Row="1"  Grid.Column="1"  Text="The Legend of Zelda" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
             <Image Source="zelda.jpg" Grid.Row="1" Grid.Column="1" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+            
             <Label Grid.Row="2"  Grid.Column="0" Text="Metroid Prime" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
             <Image Source="metroid.jpg" Grid.Row="2" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+            
             <Label Grid.Row="2"  Grid.Column="1" Text="Castlevania" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
             <Image Source="castlevania.jpg" Grid.Row="2" Grid.Column="1" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+            
         </Grid>
     </ContentPage.Content>
 </ContentPage>
