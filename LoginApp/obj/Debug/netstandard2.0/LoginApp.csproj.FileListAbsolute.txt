@@ -15,4 +15,7 @@ C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netsta
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.pdb
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\Views\SignUpPage.xaml.g.cs
-C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\LoginApp.csproj.AssemblyReference.cache
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\Views\DiscoverTabPage.xaml.g.cs
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\Views\HomeTabPage.xaml.g.cs
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\Views\ProfileTabPage.xaml.g.cs
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp\obj\Debug\netstandard2.0\Views\TopGamesTabPage.xaml.g.cs

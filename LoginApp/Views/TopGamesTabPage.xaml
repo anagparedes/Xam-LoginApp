@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginApp.Views.TopGamesTabPage"
+             Title="Top Games"
+             IconImageSource="trophy.png"
+             BackgroundColor="#161616">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Top Games Page!"
+                   TextColor="#F1CE40"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

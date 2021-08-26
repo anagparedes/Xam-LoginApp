@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewmodels="clr-namespace:LoginApp.ViewModels" x:DataType="viewmodels:HomeViewModel"
+             x:Class="LoginApp.Views.HomeTabPage"
+             Title="Home"
+             IconImageSource="Home.png"
+             BackgroundColor="#161616">
+    <ContentPage.Content>
+        <Grid BackgroundColor="#FFBE09">
+
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Text="{Binding Game1.Title}" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
+            <Image Source="{Binding Game1.Image}" Grid.Row="0" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+
+            <Label Grid.Row="0"  Grid.Column="1" Text="{Binding Game2.Title}" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
+            <Image Source="{Binding Game2.Image}" Grid.Row="0" Grid.Column="1" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+
+            <Label Grid.Row="1"  Grid.Column="0" Text="{Binding Game3.Title}" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
+            <Image Source="{Binding Game3.Image}" Grid.Row="1" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+
+            <Label Grid.Row="1"  Grid.Column="1"  Text="{Binding Game4.Title}" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
+            <Image Source="{Binding Game4.Image}" Grid.Row="1" Grid.Column="1" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+
+            <Label Grid.Row="2"  Grid.Column="0" Text="{Binding Game5.Title}" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
+            <Image Source="{Binding Game5.Image}" Grid.Row="2" Grid.Column="0" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+
+            <Label Grid.Row="2"  Grid.Column="1" Text="{Binding Game6.Title}" TextColor="#FFBE09" VerticalTextAlignment="End" HorizontalTextAlignment="Center" FontAttributes="Bold" BackgroundColor="#161616"/>
+            <Image Source="{Binding Game6.Image}" Grid.Row="2" Grid.Column="1" WidthRequest="150" HorizontalOptions="CenterAndExpand"></Image>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

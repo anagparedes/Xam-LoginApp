@@ -583,3 +583,7 @@ C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debu
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\mariokart.jpg
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\metroid.jpg
 C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\zelda.jpg
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\home.png
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\profile.png
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\trophy.png
+C:\Users\Ana\Desktop\Mobile Dev HW\Practica#2\LoginApp\LoginApp.Android\obj\Debug\110\res\drawable\discover.png

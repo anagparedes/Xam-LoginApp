@@ -1,10 +1,5 @@
 ﻿using LoginApp.Views;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-
 using Xamarin.Forms;
 
 namespace LoginApp.ViewModels
@@ -15,7 +10,7 @@ namespace LoginApp.ViewModels
 
    
         private string email;
-        public string emailEntry
+        public string Email
         {
             get { return email; }
             set
@@ -26,7 +21,7 @@ namespace LoginApp.ViewModels
         }
 
         private string username;
-        public string usernameEntry
+        public string Username
         {
             get { return username; }
             set
@@ -37,7 +32,7 @@ namespace LoginApp.ViewModels
         }
 
         private string password;
-        public string passwordEntry
+        public string Password
         {
             get { return password; }
             set
@@ -47,23 +42,19 @@ namespace LoginApp.ViewModels
             }
 
         }
-        public SignUpViewModel()
-        {
-           
-        }
 
-        public Command ButtonCommand
+        public Command OnSignUpCommand
         {
             get
             {
-                return new Command(OnButtonClicked);
+                return new Command(OnSignUp);
             }
         }
 
-        private async void OnButtonClicked()
+        private async void OnSignUp()
         {
 
-            if (string.IsNullOrEmpty(emailEntry)||string.IsNullOrEmpty(usernameEntry) || string.IsNullOrEmpty(passwordEntry))
+            if (string.IsNullOrEmpty(Email)||string.IsNullOrEmpty(Username) || string.IsNullOrEmpty(Password))
             {
                 await App.Current.MainPage.DisplayAlert("Warning!", "The fields are required.", "Ok");
 
@@ -71,7 +62,7 @@ namespace LoginApp.ViewModels
             }
             else
             {
-                await App.Current.MainPage.DisplayAlert("Thank you for Signing Up!", "Welcome " + usernameEntry, "Ok");
+                await App.Current.MainPage.DisplayAlert("Thank you for Signing Up!", "Welcome " + Username, "Ok");
                 await App.Current.MainPage.Navigation.PushAsync(new LoginPage());
 
             }

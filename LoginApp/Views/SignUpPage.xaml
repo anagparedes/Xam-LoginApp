@@ -6,11 +6,11 @@
     <ContentPage.Content>
         <StackLayout Padding="40" VerticalOptions="Center" HorizontalOptions="FillAndExpand">
             <Image Source="logo.jpg" WidthRequest="180" HeightRequest="180"></Image>
-            <Entry x:Name="emailEntry" Text="{Binding emailEntry}" Placeholder="Email" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
-            <Entry x:Name="usernameEntry" Text="{Binding usernameEntry}" Placeholder="Username" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
-            <Entry  x:Name="passwordEntry" Text ="{Binding passwordEntry}" Placeholder="Password" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
-            <Entry  x:Name="confirmEntry" Text ="{Binding passwordEntry}" Placeholder="Confirm Password" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
-            <Button x:Name="loginButton" VerticalOptions = "Center" Command="{Binding ButtonCommand}"
+            <Entry x:Name="emailEntry" Text="{Binding Email}" Placeholder="Email" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
+            <Entry x:Name="usernameEntry" Text="{Binding Username}" Placeholder="Username" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
+            <Entry  x:Name="passwordEntry" Text ="{Binding Password}" Placeholder="Password" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
+            <Entry  x:Name="confirmEntry" Text ="{Binding Password}" Placeholder="Confirm Password" IsPassword="True" TextColor="#E3E3E3" PlaceholderColor="#F1EC40"></Entry>
+            <Button x:Name="loginButton" VerticalOptions = "Center" Command="{Binding OnSignUpCommand}"
               Text="Login"     
               TextColor="#121212" 
               BackgroundColor="#F1CE40"

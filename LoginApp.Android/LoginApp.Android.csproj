@@ -113,45 +113,20 @@
   <ItemGroup>
     <AndroidResource Include="Resources\drawable\zelda.jpg" />
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto 4.1.png" />
+    <Folder Include="Resources\drawable\Evidencias\" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto 4.2.png" />
+    <AndroidResource Include="Resources\drawable\home.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto1.1.png" />
+    <AndroidResource Include="Resources\drawable\profile.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto1.2.png" />
+    <AndroidResource Include="Resources\drawable\trophy.png" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto1.3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\3.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto 1.4.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto 2.1.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto 2.2.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <AndroidResource Include="Resources\drawable\Evidencias\foto 2.3.png" />
+    <AndroidResource Include="Resources\drawable\discover.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
