@@ -11,7 +11,7 @@ A simple Login application using MVVM
 
 ![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/1.png)
 
-![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/foto1.2.png)
+![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/1.2.png)
 
 **Password**
 
