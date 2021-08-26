@@ -35,19 +35,19 @@ A simple Login application using MVVM
 ![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/3.1.png)
 
 
-** Home Page**
+**Home Page**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/3.2.png)
 
-** Discover Page**
+**Discover Page**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/3.3.png)
 
-** Top Games Page**
+**Top Games Page**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/3.4.png)
 
-** Profile Page**
+**Profile Page**
 
 ![Image text](https://github.com/anagparedes/Xam-LoginApp/blob/master/LoginApp.Android/Resources/drawable/Evidencias/3.5.png)
 
