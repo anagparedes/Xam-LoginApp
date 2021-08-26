@@ -114,9 +114,6 @@
     <AndroidResource Include="Resources\drawable\zelda.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\Evidencias\" />
-  </ItemGroup>
-  <ItemGroup>
     <AndroidResource Include="Resources\drawable\home.png" />
   </ItemGroup>
   <ItemGroup>
